@@ -17,3 +17,6 @@
       background: rgb(218, 225, 237); /* This is for ie8 and below */
       background: rgba(218, 225, 237, 0.55);
    }
+   .navbar {
+     margin-bottom: 0px;
+   }
